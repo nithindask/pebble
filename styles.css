@@ -1,0 +1,22 @@
+body {
+    font-family: 'Bungee';
+    margin: 0;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #EEE2DC;
+    color: #AC3B61;
+}
+
+.spec-item {
+    margin: 10px 0;
+}
+.from {
+  font-family: 'Roboto Sans';
+  text-align: right;
+}
+a {
+  text-decoration: none;
+  color: #AC3B61;
+}
